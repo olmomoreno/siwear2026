@@ -107,5 +107,5 @@ This work was supported by the Italian Workers’ Compensation Authority (INAIL)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [profile-olmo]: image/prof_olmo.jpg
 [profile-jesus]: image/prof_jesus.jpg
-[profile-luigi]: image/prof_luigi.jpg
-[profile-gabriel]: image/prof_gabriel.jpg
+[profile-luigi]: image/prof_luigi.png
+[profile-gabriel]: image/prof_gabriel.png

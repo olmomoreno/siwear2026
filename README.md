@@ -61,6 +61,8 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 # Organizers
 ![profile-olmo]
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/olmo-alonso-moreno-franco/)
+
 **Dr. Olmo A. Moreno Franco** received his PhD in Bioengineering and Robotics from the University of Genova, Italy, in 2019, with a thesis on optimising damping coefficients for improved transparency in bilateral telemanipulation.
 Currently, Dr. Moreno is a Senior Technician at the Istituto Italiano di Tecnologia, a position he has held since 2024, after serving as a Postdoctoral Researcher there since 2019.
 Omo Moreno's main expertise lies in human-robot interaction, wearable robotics, and telemanipulation, with a strong focus on industrial exoskeletons and haptic-enabled teleoperation systems.
@@ -69,6 +71,8 @@ He also has significant experience in embedded system design and CubeSat mission
 He has worked with systems such as the Shoulder-SideWINDER, XoTrunk, and Omega 6 haptic device.
 
 ![profile-elahe]
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elaheabdi/)
 
 **Prof. Elahe Abdi** received her PhD in Mechanical Engineering Robotics from the Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland.
 Dr. Abdi is currently a Senior Lecturer in the Department of Mechanical and Aerospace Engineering at Monash University, Australia, a position she has held since 2023.
@@ -84,12 +88,16 @@ He also specialises in the clinical evaluation of wearable cyborg interventions 
 
 ![profile-luigi]
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luigi-monica-94982b38a/)
+
 **Dr. Luigi Monica** received his PhD in Production Systems and Industrial Plants from the Department of Industrial Engineering at the University of Parma, Italy, after receiving his Mechanical Engineering degree from the University of Naples - Federico II, Italy.
 Currently, Dr. Monica is a Technologist at the Italian Workers‘ Compensation Authority (INAIL), where he is the Chief of the Technical-Scientific Technical Assessments Section within the Department of Technological Innovation and Safety.
 His main expertise lies in coordinating conformity assessment activities for machines, systems, appliances, and products against prescribed safety requirements (including the Machinery Directive and PED Directive) and conducting lifting work equipment verification activities.
 His research activities primarily focus on workplace safety, risk assessment methodologies, human factors, safety of machines and production plants, risk management, nanotechnologies, technological innovation, and robotics.
 
 ![profile-gabriel]
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gabriel-amores-0522285/)
 
 **Dr. José Gabriel de Amores Carredano** received his PhD in Anglogermanic Philology from the University of Sevilla in 1992.
 Dr. Amores Carredano is currently a Professor at the University of Sevilla, a position he has held since 2019 in the English Language Department of the Faculty of Philology.
@@ -98,6 +106,8 @@ Dr. Amores Carredano also possesses significant entrepreneurial and executive ex
 He has also applied for several international patents in natural language processing.
 
 ![profile-jesus]
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jortizsl/)
 
 **Dr. Jesus Ortiz** earned his PhD in New Technologies in Automobiles from the Centro Politécnico Superior, University of Zaragoza, in 2008.
 Currently, Dr. Ortiz works as a Research Technologist and he is currently the leader

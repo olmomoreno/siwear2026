@@ -4,7 +4,7 @@ Emergent technologies are transforming wearable robotics, enhancing performance,
 -->
 
 
-# 1st Workshop on Setup Interfaces for Wearable Robotics: Research Challenges and Industrial Perspectives (SIWeaR 2026)
+# 2nd Workshop on Setup Interfaces for Wearable Robotics: Research Challenges and Industrial Perspectives (SIWeaR 2026)
 
 ## IEEE/ASME International Conference on Advanced Intelligent Mechatronics, July 7th - 10th 2026, Porto Antico, Magazzini del cotone Genova (Italy)
 

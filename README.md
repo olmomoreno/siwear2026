@@ -58,6 +58,10 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 12:50 - 13:00    | Closing remarks |
 | 13:00 - 13:30    | Wearable robotics Demo |
 # Invited Speakers
+# Workshop Materials
+We encourage participants to use [Nearpod](https://nearpod.com) during the workshop as an interactive tool to actively engage with the presented content and discussions. 
+This tool allows the integration of slide based material with real time interactive elements such as quizzes polls and open questions which can support reflection on key topics related to wearable robotics including setup procedures interaction design and user experience challenges. 
+Through collaborative activities and short assessments participants can share perspectives provide feedback and contribute to discussions in a structured and inclusive manner.
 # Organizers
 ![profile-olmo]
 

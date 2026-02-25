@@ -1,6 +1,22 @@
 # SIWeaR_workshop
 Emergent technologies are transforming wearable robotics, enhancing performance, usability, and user satisfaction in safe, reliable settings. This workshop explores trends in human–robot interaction for assistive devices, user experience assessment, and key research challenges, uniting experts in wearable robotics and augmentation systems.
 # 1st Workshop on Setup Interfaces for Wearable Robotics: Research Challenges and Industrial Perspectives
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>📋 Table of Contents</summary>
+  <ol>
+    <li><a href="#workshop-abstract">Workshop Abstract</a></li>
+    <li><a href="#call-for-contributions">Call for Contributions</a></li>
+    <li><a href="#topics-of-interest">Topics of Interest</a></li>
+    <li><a href="#program">Program</a></li>
+    <li><a href="#invited-speakers">Invited Speakers</a></li>
+    <li><a href="#workshop-materials">Workshop Materials</a></li>
+    <li><a href="#organizers">Organizers</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 # Workshop abstract
 Adopting emergent technologies has become important in the field of wearable robotics. The integration of novel applications could simplify the task, improve performance, and increase the level of satisfaction when users interact with such disruptive technologies.
 These events should occur in a safe and reliable environment.
@@ -20,7 +36,9 @@ This workshop aims to gather researchers, developers, designers, and practitione
 **Final version due:**  20th of April, 2026 
 
 > [!IMPORTANT]  
-> After submitting your workshop contribution, you must [email](olmo.moreno@iit.it) workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.
+> After submitting your workshop contribution, you must email workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.
+
+**Email the Paper ID to:** olmo.moreno@iit.it
 
 We invite early-career researchers, roboticists, and members from different scientific communities to submit contributions. We will especially encourage women and young researchers' participation in order to support gender balance in robotics and the promotion of early-career researchers to present themselves to the community. 
 

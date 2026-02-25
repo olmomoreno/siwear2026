@@ -1,6 +1,18 @@
+<!--
 # SIWeaR_workshop
 Emergent technologies are transforming wearable robotics, enhancing performance, usability, and user satisfaction in safe, reliable settings. This workshop explores trends in human–robot interaction for assistive devices, user experience assessment, and key research challenges, uniting experts in wearable robotics and augmentation systems.
+-->
 # 1st Workshop on Setup Interfaces for Wearable Robotics: Research Challenges and Industrial Perspectives
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/olmomoreno/SIWeaR_workshop">
+    <img src="image/siwear.jpg" alt="Logo" width="802" height="500">
+  </a>
+  <h3 align="center">SIWeaR 2026 </h3>
+  </p>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>

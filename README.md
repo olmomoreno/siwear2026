@@ -81,6 +81,7 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 * Dedicated Hardware and Software Architectures
 * Industry 5.0 and Human-Centered Robotics
 # Program
+<!--
 | Time              | Talk |
 |-------------------|------|
 | 09:15 - 09:25    | Opening remarks |
@@ -94,7 +95,66 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 12:35 - 12:50    | Roundtable discussion |
 | 12:50 - 13:00    | Closing remarks |
 | 13:00 - 13:30    | Wearable robotics Demo |
+-->
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Talk</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:15 - 09:25</td>
+      <td>Opening remarks</td>
+    </tr>
+    <tr>
+      <td>09:25 - 10:00</td>
+      <td>Invited speaker</td>
+    </tr>
+    <tr>
+      <td>10:00 - 10:20</td>
+      <td>Lightning talks (4 talks, 5 minutes each)</td>
+    </tr>
+    <tr>
+      <td>10:20 - 10:45</td>
+      <td>Coffee break</td>
+    </tr>
+    <tr>
+      <td>10:45 - 11:20</td>
+      <td>Invited speaker</td>
+    </tr>
+    <tr>
+      <td>11:20 - 11:40</td>
+      <td>Lightning talks (4 talks, 5 minutes each)</td>
+    </tr>
+    <tr>
+      <td>11:40 - 12:00</td>
+      <td>Poster + Q&amp;A session</td>
+    </tr>
+    <tr>
+      <td>12:00 - 12:35</td>
+      <td>Invited speaker</td>
+    </tr>
+    <tr>
+      <td>12:35 - 12:50</td>
+      <td>Roundtable discussion</td>
+    </tr>
+    <tr>
+      <td>12:50 - 13:00</td>
+      <td>Closing remarks</td>
+    </tr>
+    <tr>
+      <td>13:00 - 13:30</td>
+      <td>Wearable robotics Demo</td>
+    </tr>
+  </tbody>
+</table>
+```
+
 # Invited Speakers
+
 ![profile-maria]
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/maria-p-2a2044187/)

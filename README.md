@@ -62,7 +62,7 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 ![profile-olmo]
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/olmo-alonso-moreno-franco/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/olmomoreno)
 
 **Dr. Olmo A. Moreno Franco** received his PhD in Bioengineering and Robotics from the University of Genova, Italy, in 2019, with a thesis on optimising damping coefficients for improved transparency in bilateral telemanipulation.
 Currently, Dr. Moreno is a Senior Technician at the Istituto Italiano di Tecnologia, a position he has held since 2024, after serving as a Postdoctoral Researcher there since 2019.

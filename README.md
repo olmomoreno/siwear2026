@@ -9,22 +9,24 @@ In this workshop, we will discuss the new trends and tendencies of human-interac
 The topics of interest in this workshop are wearable robotics, assistive robotic devices, feedback interfaces, human-powered augmentation, and assessment method strategies.
 This workshop aims to gather researchers, developers, designers, and practitioners from various disciplines that cover the cutting edge of the HRI wearable approach community.
 # Call for contributions
-Submission Platform:  PaperPlaza system link(https://ras.papercept.net/conferences/scripts/start.pl)
+**Submission Platform:** [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) system
 
-Submission Format: Extended Abstract Papers must be up to 2-4 pages (references do not count toward the page length) in IEEE Conf format with 2 columns (templates are available here). link (https://ras.papercept.net/conferences/support/support.php)
+**Submission Format:** Extended Abstract Papers must be up to 2-4 pages (references do not count toward the page length) in IEEE Conf format with 2 columns (templates are available [here](https://ras.papercept.net/conferences/support/support.php)).
 
-Submission deadline: ​10th of March, 2026 
-Notification of acceptance: 10th of April, 2026
-Final version due:  20th of April, 2026
+**Submission deadline:** ​10th of March, 2026 
+
+**Notification of acceptance:** 10th of April, 2026 
+
+**Final version due:**  20th of April, 2026 
 
 We invite early-career researchers, roboticists, and members from different scientific communities to submit contributions. We will especially encourage women and young researchers' participation in order to support gender balance in robotics and the promotion of early-career researchers to present themselves to the community. 
 
-Peer-reviewed (double-blind) evaluation: Submissions will be evaluated on their relevance to the workshop's themes, including innovative strategies, interfaces, and applications in wearable and haptic robotics. Submissions should demonstrate originality, scientific and technical merit, and clarity of presentation and problem statement. Priority will be given to work that provokes meaningful discussion and showcases practical applications. Non-original submissions are welcome but should properly cite the prior work. Topics of interest can be found in the workshop website.
+**Peer-reviewed (double-blind) evaluation:** Submissions will be evaluated on their relevance to the workshop's themes, including innovative strategies, interfaces, and applications in wearable and haptic robotics. Submissions should demonstrate originality, scientific and technical merit, and clarity of presentation and problem statement. Priority will be given to work that provokes meaningful discussion and showcases practical applications. Non-original submissions are welcome but should properly cite the prior work. Topics of interest can be found in the workshop website.
 
 Accepted manuscripts will be invited to present a teaser of their work to all participants of the workshop (single-track presentation). The spotlight teaser presentations will be accompanied by posters during the interactive session at the coffee break.
 Selected extended abstracts and videos will be disseminated and available on the workshop website with the author's consent. Authors are naturally allowed to opt-out for any reason.
 
-Best Workshop Paper and Video Awards:
+**Best Workshop Paper and Video Awards:**
 The award for the best extended abstract will recognize the quality of the written submission and the presentation, including engagement during the poster session. 
 Papers with an accompanying video will automatically enter the Best Video Award competition. The video should be a clear, concise (max. 3 minutes) demonstration of the system or experiment. It must adhere to ethical guidelines.
 # Topics of interest
@@ -57,4 +59,38 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 13:00 - 13:30    | Wearable robotics Demo |
 # Invited Speakers
 # Organizers
+**Dr. Olmo A. Moreno Franco** received his PhD in Bioengineering and Robotics from the University of Genova, Italy, in 2019, with a thesis on optimising damping coefficients for improved transparency in bilateral telemanipulation.
+Currently, Dr. Moreno is a Senior Technician at the Istituto Italiano di Tecnologia, a position he has held since 2024, after serving as a Postdoctoral Researcher there since 2019.
+Omo Moreno's main expertise lies in human-robot interaction, wearable robotics, and telemanipulation, with a strong focus on industrial exoskeletons and haptic-enabled teleoperation systems.
+His work involves user command interfaces, adaptable setup systems, and ergonomic design assessment for occupational exoskeletons.
+He also has significant experience in embedded system design and CubeSat mission development.
+He has worked with systems such as the Shoulder-SideWINDER, XoTrunk, and Omega 6 haptic device.
+
+**Prof. Elahe Abdi** received her PhD in Mechanical Engineering Robotics from the Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland.
+Dr. Abdi is currently a Senior Lecturer in the Department of Mechanical and Aerospace Engineering at Monash University, Australia, a position she has held since 2023.
+Abdi's main expertise lies in human-robot interaction, medical robotics, automation in construction, and service robotics.
+Her work has a significant impact, as demonstrated by her role as a Chief Investigator on external research grants, including a \$4.5 million grant for Optimal Ageing, and her recognition as a Superstar of STEM 2023-2024.
+
+**Prof. Hiroaki Kawamoto** received is PhD at the Doctor’s Programme in Intelligent Interaction Technologies, Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan.
+Dr. Kawamoto has been a professor at the Institute of Engineering, Information and Systems, University of Tsukuba since 2024.
+Kawamoto’s main areas of expertise are wearable cyborg systems and assistive robotics, with a particular focus on human-robot interaction, motor intention decoding, and their application in rehabilitation and neurorehabilitation technologies.
+He also specialises in the clinical evaluation of wearable cyborg interventions for motor impairments, frequently using systems like the Hybrid Assistive Limb (HAL).
+
+**Dr. Luigi Monica** received his PhD in Production Systems and Industrial Plants from the Department of Industrial Engineering at the University of Parma, Italy, after receiving his Mechanical Engineering degree from the University of Naples - Federico II, Italy.
+Currently, Dr. Monica is a Technologist at the Italian Workers‘ Compensation Authority (INAIL), where he is the Chief of the Technical-Scientific Technical Assessments Section within the Department of Technological Innovation and Safety.
+His main expertise lies in coordinating conformity assessment activities for machines, systems, appliances, and products against prescribed safety requirements (including the Machinery Directive and PED Directive) and conducting lifting work equipment verification activities.
+His research activities primarily focus on workplace safety, risk assessment methodologies, human factors, safety of machines and production plants, risk management, nanotechnologies, technological innovation, and robotics.
+
+**Dr. José Gabriel de Amores Carredano** received his PhD in Anglogermanic Philology from the University of Sevilla in 1992.
+Dr. Amores Carredano is currently a Professor at the University of Sevilla, a position he has held since 2019 in the English Language Department of the Faculty of Philology.
+His main areas of expertise are computational linguistics and natural language processing, which he helped establish at his university. He has successfully led numerous national and European research projects focusing on conversational systems, multimodal dialogues, and language generation.
+Dr. Amores Carredano also possesses significant entrepreneurial and executive experience, having co-founded Indisys, a spin-off acquired by Intel, and subsequently working as a software engineering manager and principal engineer at Intel Corporation Iberia.
+He has also applied for several international patents in natural language processing.
+
+**Dr. Jesus Ortiz** earned his PhD in New Technologies in Automobiles from the Centro Politécnico Superior, University of Zaragoza, in 2008.
+Currently, Dr. Ortiz works as a Research Technologist and he is currently the leader
+of the exoskeletons group (XoLab) at the department of Advanced Robotics (ADVR) of Fondazione Istituto Italiano di Tecnologia (IIT) in Genova, Italy, a role he has held since 2014, following several post-doc positions at the same institution since 2008.
+Ortiz's main expertise lies in advanced robotics, human-robot interaction, teleoperation of vehicles and robots, and the application of new technologies in automobiles.
+His work encompasses areas such as multisensorial interfaces for teleoperation, soft modular biomimetic exoskeletons, robot-assisted microsurgery, and real-time processing for autonomous underwater vehicles.
 # Acknowledgments
+This work was supported by the Italian Workers’ Compensation Authority (INAIL) and Istituto Italiano di Tecnologia (IIT) within the project Sistemi Ciberneteci Collaborativi - Esoscheletro Collaborativo 3.

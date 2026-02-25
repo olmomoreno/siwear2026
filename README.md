@@ -19,6 +19,9 @@ This workshop aims to gather researchers, developers, designers, and practitione
 
 **Final version due:**  20th of April, 2026 
 
+> [!IMPORTANT]  
+> After submitting your workshop contribution, you must email workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.
+
 We invite early-career researchers, roboticists, and members from different scientific communities to submit contributions. We will especially encourage women and young researchers' participation in order to support gender balance in robotics and the promotion of early-career researchers to present themselves to the community. 
 
 **Peer-reviewed (double-blind) evaluation:** Submissions will be evaluated on their relevance to the workshop's themes, including innovative strategies, interfaces, and applications in wearable and haptic robotics. Submissions should demonstrate originality, scientific and technical merit, and clarity of presentation and problem statement. Priority will be given to work that provokes meaningful discussion and showcases practical applications. Non-original submissions are welcome but should properly cite the prior work. Topics of interest can be found in the workshop website.

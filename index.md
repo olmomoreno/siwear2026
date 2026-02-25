@@ -178,8 +178,6 @@ Currently, Dr. Ortiz works as a Research Technologist and he is currently the le
 of the exoskeletons group (XoLab) at the department of Advanced Robotics (ADVR) of Fondazione Istituto Italiano di Tecnologia (IIT) in Genova, Italy, a role he has held since 2014, following several post-doc positions at the same institution since 2008.
 Ortiz's main expertise lies in advanced robotics, human-robot interaction, teleoperation of vehicles and robots, and the application of new technologies in automobiles.
 His work encompasses areas such as multisensorial interfaces for teleoperation, soft modular biomimetic exoskeletons, robot-assisted microsurgery, and real-time processing for autonomous underwater vehicles.
-# Acknowledgments
-This work was supported by the Italian Workers’ Compensation Authority (INAIL) and Istituto Italiano di Tecnologia (IIT) within the project Sistemi Ciberneteci Collaborativi - Esoscheletro Collaborativo 3.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

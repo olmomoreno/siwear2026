@@ -96,8 +96,37 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 12:50 - 13:00    | Closing remarks |
 | 13:00 - 13:30    | Wearable robotics Demo |
 -->
-```html
-<table>
+<style>
+  .schedule {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .schedule th,
+  .schedule td {
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+    text-align: left;
+  }
+
+  .schedule th {
+    background-color: #f5f5f5;
+    font-weight: 600;
+  }
+
+  .schedule tr:nth-child(even) {
+    background-color: #fafafa;
+  }
+
+  .schedule tr:hover {
+    background-color: #f0f0f0;
+  }
+</style>
+
+<table class="schedule">
   <thead>
     <tr>
       <th>Time</th>
@@ -105,53 +134,19 @@ Papers with an accompanying video will automatically enter the Best Video Award 
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>09:15 - 09:25</td>
-      <td>Opening remarks</td>
-    </tr>
-    <tr>
-      <td>09:25 - 10:00</td>
-      <td>Invited speaker</td>
-    </tr>
-    <tr>
-      <td>10:00 - 10:20</td>
-      <td>Lightning talks (4 talks, 5 minutes each)</td>
-    </tr>
-    <tr>
-      <td>10:20 - 10:45</td>
-      <td>Coffee break</td>
-    </tr>
-    <tr>
-      <td>10:45 - 11:20</td>
-      <td>Invited speaker</td>
-    </tr>
-    <tr>
-      <td>11:20 - 11:40</td>
-      <td>Lightning talks (4 talks, 5 minutes each)</td>
-    </tr>
-    <tr>
-      <td>11:40 - 12:00</td>
-      <td>Poster + Q&amp;A session</td>
-    </tr>
-    <tr>
-      <td>12:00 - 12:35</td>
-      <td>Invited speaker</td>
-    </tr>
-    <tr>
-      <td>12:35 - 12:50</td>
-      <td>Roundtable discussion</td>
-    </tr>
-    <tr>
-      <td>12:50 - 13:00</td>
-      <td>Closing remarks</td>
-    </tr>
-    <tr>
-      <td>13:00 - 13:30</td>
-      <td>Wearable robotics Demo</td>
-    </tr>
+    <tr><td>09:15 - 09:25</td><td>Opening remarks</td></tr>
+    <tr><td>09:25 - 10:00</td><td>Invited speaker</td></tr>
+    <tr><td>10:00 - 10:20</td><td>Lightning talks (4 talks, 5 minutes each)</td></tr>
+    <tr><td>10:20 - 10:45</td><td>Coffee break</td></tr>
+    <tr><td>10:45 - 11:20</td><td>Invited speaker</td></tr>
+    <tr><td>11:20 - 11:40</td><td>Lightning talks (4 talks, 5 minutes each)</td></tr>
+    <tr><td>11:40 - 12:00</td><td>Poster + Q&amp;A session</td></tr>
+    <tr><td>12:00 - 12:35</td><td>Invited speaker</td></tr>
+    <tr><td>12:35 - 12:50</td><td>Roundtable discussion</td></tr>
+    <tr><td>12:50 - 13:00</td><td>Closing remarks</td></tr>
+    <tr><td>13:00 - 13:30</td><td>Wearable robotics Demo</td></tr>
   </tbody>
 </table>
-```
 
 # Invited Speakers
 

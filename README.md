@@ -58,6 +58,9 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 12:50 - 13:00    | Closing remarks |
 | 13:00 - 13:30    | Wearable robotics Demo |
 # Invited Speakers
+**Dr. Maria Pozzi,** "Beyond Teleoperation: Wearable Haptics in Human-robot Augmentation", Department of Information Engineering and Mathematics, University of Siena.
+**Dr. Guillermo Pérez García,** "AI Interfaces and Social Robotics", 4i Intelligent Insights S.L., Spain.
+**Dr. Enrique Bances,** "Industry 5.0 and Robotics", Fraunhofer IPA, Germany.
 # Workshop Materials
 We encourage participants to use [Nearpod](https://nearpod.com) during the workshop as an interactive tool to actively engage with the presented content and discussions. 
 This tool allows the integration of slide based material with real time interactive elements such as quizzes polls and open questions which can support reflection on key topics related to wearable robotics including setup procedures interaction design and user experience challenges. 

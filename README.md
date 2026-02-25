@@ -59,6 +59,8 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 13:00 - 13:30    | Wearable robotics Demo |
 # Invited Speakers
 # Organizers
+![profile-olmo]
+
 **Dr. Olmo A. Moreno Franco** received his PhD in Bioengineering and Robotics from the University of Genova, Italy, in 2019, with a thesis on optimising damping coefficients for improved transparency in bilateral telemanipulation.
 Currently, Dr. Moreno is a Senior Technician at the Istituto Italiano di Tecnologia, a position he has held since 2024, after serving as a Postdoctoral Researcher there since 2019.
 Omo Moreno's main expertise lies in human-robot interaction, wearable robotics, and telemanipulation, with a strong focus on industrial exoskeletons and haptic-enabled teleoperation systems.
@@ -94,3 +96,7 @@ Ortiz's main expertise lies in advanced robotics, human-robot interaction, teleo
 His work encompasses areas such as multisensorial interfaces for teleoperation, soft modular biomimetic exoskeletons, robot-assisted microsurgery, and real-time processing for autonomous underwater vehicles.
 # Acknowledgments
 This work was supported by the Italian Workers’ Compensation Authority (INAIL) and Istituto Italiano di Tecnologia (IIT) within the project Sistemi Ciberneteci Collaborativi - Esoscheletro Collaborativo 3.
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[profile-olmo]: image/prof_olmo.jpg

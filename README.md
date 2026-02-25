@@ -58,8 +58,22 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | 12:50 - 13:00    | Closing remarks |
 | 13:00 - 13:30    | Wearable robotics Demo |
 # Invited Speakers
+![profile-maria]
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/maria-p-2a2044187/)
+
 **Dr. Maria Pozzi,** "Beyond Teleoperation: Wearable Haptics in Human-robot Augmentation", Department of Information Engineering and Mathematics, University of Siena.
+
+![profile-guillermo]
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillermopérezgarcía/)
+
 **Dr. Guillermo Pérez García,** "AI Interfaces and Social Robotics", 4i Intelligent Insights S.L., Spain.
+
+![profile-enrique]
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/enrique-bances/)
+
 **Dr. Enrique Bances,** "Industry 5.0 and Robotics", Fraunhofer IPA, Germany.
 # Workshop Materials
 We encourage participants to use [Nearpod](https://nearpod.com) during the workshop as an interactive tool to actively engage with the presented content and discussions. 
@@ -134,3 +148,6 @@ This work was supported by the Italian Workers’ Compensation Authority (INAIL)
 [profile-gabriel]: image/prof_gabriel.png
 [profile-elahe]: image/prof_elahe.jpg
 [profile-hiroaki]: image/prof_hiroaki.jpg
+[profile-maria]: image/prof_maria.jpg
+[profile-guillermo]: image/prof_guillermo.jpg
+[profile-enrique]: image/prof_enrique.jpg

@@ -78,16 +78,22 @@ Dr. Kawamoto has been a professor at the Institute of Engineering, Information a
 Kawamoto’s main areas of expertise are wearable cyborg systems and assistive robotics, with a particular focus on human-robot interaction, motor intention decoding, and their application in rehabilitation and neurorehabilitation technologies.
 He also specialises in the clinical evaluation of wearable cyborg interventions for motor impairments, frequently using systems like the Hybrid Assistive Limb (HAL).
 
+![profile-luigi]
+
 **Dr. Luigi Monica** received his PhD in Production Systems and Industrial Plants from the Department of Industrial Engineering at the University of Parma, Italy, after receiving his Mechanical Engineering degree from the University of Naples - Federico II, Italy.
 Currently, Dr. Monica is a Technologist at the Italian Workers‘ Compensation Authority (INAIL), where he is the Chief of the Technical-Scientific Technical Assessments Section within the Department of Technological Innovation and Safety.
 His main expertise lies in coordinating conformity assessment activities for machines, systems, appliances, and products against prescribed safety requirements (including the Machinery Directive and PED Directive) and conducting lifting work equipment verification activities.
 His research activities primarily focus on workplace safety, risk assessment methodologies, human factors, safety of machines and production plants, risk management, nanotechnologies, technological innovation, and robotics.
+
+![profile-gabriel]
 
 **Dr. José Gabriel de Amores Carredano** received his PhD in Anglogermanic Philology from the University of Sevilla in 1992.
 Dr. Amores Carredano is currently a Professor at the University of Sevilla, a position he has held since 2019 in the English Language Department of the Faculty of Philology.
 His main areas of expertise are computational linguistics and natural language processing, which he helped establish at his university. He has successfully led numerous national and European research projects focusing on conversational systems, multimodal dialogues, and language generation.
 Dr. Amores Carredano also possesses significant entrepreneurial and executive experience, having co-founded Indisys, a spin-off acquired by Intel, and subsequently working as a software engineering manager and principal engineer at Intel Corporation Iberia.
 He has also applied for several international patents in natural language processing.
+
+![profile-jesus]
 
 **Dr. Jesus Ortiz** earned his PhD in New Technologies in Automobiles from the Centro Politécnico Superior, University of Zaragoza, in 2008.
 Currently, Dr. Ortiz works as a Research Technologist and he is currently the leader

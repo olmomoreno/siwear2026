@@ -68,10 +68,14 @@ His work involves user command interfaces, adaptable setup systems, and ergonomi
 He also has significant experience in embedded system design and CubeSat mission development.
 He has worked with systems such as the Shoulder-SideWINDER, XoTrunk, and Omega 6 haptic device.
 
+![profile-elahe]
+
 **Prof. Elahe Abdi** received her PhD in Mechanical Engineering Robotics from the Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland.
 Dr. Abdi is currently a Senior Lecturer in the Department of Mechanical and Aerospace Engineering at Monash University, Australia, a position she has held since 2023.
 Abdi's main expertise lies in human-robot interaction, medical robotics, automation in construction, and service robotics.
 Her work has a significant impact, as demonstrated by her role as a Chief Investigator on external research grants, including a \$4.5 million grant for Optimal Ageing, and her recognition as a Superstar of STEM 2023-2024.
+
+![profile-hiroaki]
 
 **Prof. Hiroaki Kawamoto** received is PhD at the Doctor’s Programme in Intelligent Interaction Technologies, Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan.
 Dr. Kawamoto has been a professor at the Institute of Engineering, Information and Systems, University of Tsukuba since 2024.
@@ -109,3 +113,5 @@ This work was supported by the Italian Workers’ Compensation Authority (INAIL)
 [profile-jesus]: image/prof_jesus.jpg
 [profile-luigi]: image/prof_luigi.png
 [profile-gabriel]: image/prof_gabriel.png
+[profile-elahe]: image/prof_elahe.jpg
+[profile-hiroaki]: image/prof_hiroaki.jpg

@@ -188,6 +188,11 @@ His work involves user command interfaces, adaptable setup systems, and ergonomi
 He also has significant experience in embedded system design and CubeSat mission development.
 He has worked with systems such as the Shoulder-SideWINDER, XoTrunk, and Omega 6 haptic device.
 
+**Prof. Elahe Abdi.**
+
+**Prof. Hiroaki Kawamoto.**
+
+<!--
 ![profile-elahe]
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elaheabdi/)
@@ -203,7 +208,7 @@ Her work has a significant impact, as demonstrated by her role as a Chief Invest
 Dr. Kawamoto has been a professor at the Institute of Engineering, Information and Systems, University of Tsukuba since 2024.
 Kawamoto’s main areas of expertise are wearable cyborg systems and assistive robotics, with a particular focus on human-robot interaction, motor intention decoding, and their application in rehabilitation and neurorehabilitation technologies.
 He also specialises in the clinical evaluation of wearable cyborg interventions for motor impairments, frequently using systems like the Hybrid Assistive Limb (HAL).
-
+-->
 ![profile-luigi]
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luigi-monica-94982b38a/)

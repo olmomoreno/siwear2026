@@ -205,6 +205,8 @@ Her work has a significant impact, as demonstrated by her role as a Chief Invest
 
 ![profile-hiroaki]
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/hiroaki-kawamoto/)
+
 **Prof. Hiroaki Kawamoto** received his PhD at the Doctoral Program in Intelligent Interaction Technologies, Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan. 
 Dr. Kawamoto has been a Professor at the Institute of Engineering, Information and Systems, University of Tsukuba since 2024. 
 Kawamoto's main areas of expertise are wearable cyborg systems and assistive robotics, with a particular focus on human–robot interaction, motor intention decoding, and their applications in rehabilitation and neurorehabilitation technologies.

@@ -201,14 +201,15 @@ He has worked with systems such as the Shoulder-SideWINDER, XoTrunk, and Omega 6
 Dr. Abdi is currently a Senior Lecturer in the Department of Mechanical and Aerospace Engineering at Monash University, Australia, a position she has held since 2023.
 Abdi's main expertise lies in human-robot interaction, medical robotics, automation in construction, and service robotics.
 Her work has a significant impact, as demonstrated by her role as a Chief Investigator on external research grants, including a \$4.5 million grant for Optimal Ageing, and her recognition as a Superstar of STEM 2023-2024.
+-->
 
 ![profile-hiroaki]
 
-**Prof. Hiroaki Kawamoto** received is PhD at the Doctor’s Programme in Intelligent Interaction Technologies, Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan.
-Dr. Kawamoto has been a professor at the Institute of Engineering, Information and Systems, University of Tsukuba since 2024.
-Kawamoto’s main areas of expertise are wearable cyborg systems and assistive robotics, with a particular focus on human-robot interaction, motor intention decoding, and their application in rehabilitation and neurorehabilitation technologies.
-He also specialises in the clinical evaluation of wearable cyborg interventions for motor impairments, frequently using systems like the Hybrid Assistive Limb (HAL).
--->
+**Prof. Hiroaki Kawamoto** received his PhD at the Doctoral Program in Intelligent Interaction Technologies, Graduate School of Systems and Information Engineering, University of Tsukuba, Ibaraki, Japan. 
+Dr. Kawamoto has been a Professor at the Institute of Engineering, Information and Systems, University of Tsukuba since 2024. 
+Kawamoto's main areas of expertise are wearable cyborg systems and assistive robotics, with a particular focus on human–robot interaction, motor intention decoding, and their applications in rehabilitation and neurorehabilitation technologies.
+He also specializes in the clinical evaluation of wearable cyborg interventions for motor impairments, frequently using systems like the Hybrid Assistive Limb (HAL).
+
 ![profile-luigi]
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luigi-monica-94982b38a/)

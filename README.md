@@ -44,21 +44,21 @@ This workshop aims to gather researchers, developers, designers, and practitione
 **Submission Platform:** [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) system
 
 **Submission Format:** Extended Abstract Papers must be up to 2-4 pages (references do not count toward the page length) in IEEE Conf format with 2 columns (templates are available [here](https://ras.papercept.net/conferences/support/support.php)).
-
+## Important dates
 **Submission deadline:** ​10th of March, 2026 
 
 **Notification of acceptance:** 10th of April, 2026 
 
 **Final version due:**  20th of April, 2026 
 
-> [!IMPORTANT]  
-> After submitting your workshop contribution, you must email workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.
+## **VERY IMPORTANT**
+After submitting your workshop contribution, you must email workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.
 
 **Email the Paper ID to:** olmo.moreno@iit.it
 
 We invite early-career researchers, roboticists, and members from different scientific communities to submit contributions. We will especially encourage women and young researchers' participation in order to support gender balance in robotics and the promotion of early-career researchers to present themselves to the community. 
 
-**Peer-reviewed (double-blind) evaluation:** Submissions will be evaluated on their relevance to the workshop's themes, including innovative strategies, interfaces, and applications in wearable and haptic robotics. Submissions should demonstrate originality, scientific and technical merit, and clarity of presentation and problem statement. Priority will be given to work that provokes meaningful discussion and showcases practical applications. Non-original submissions are welcome but should properly cite the prior work. Topics of interest can be found in the [workshop website](https://olmomoreno.github.io/siwear2026/).
+**Peer-reviewed (double-blind) evaluation:** Submissions will be evaluated on their relevance to the workshop's themes, including innovative strategies, interfaces, and applications in wearable and haptic robotics. Submissions should demonstrate originality, scientific and technical merit, and clarity of presentation and problem statement. Priority will be given to work that provokes meaningful discussion and showcases practical applications. Non-original submissions are welcome but should properly cite the prior work. 
 
 Accepted manuscripts will be invited to present a teaser of their work to all participants of the workshop (single-track presentation). The spotlight teaser presentations will be accompanied by posters during the interactive session at the coffee break.
 Selected extended abstracts and videos will be disseminated and available on the workshop website with the author's consent. Authors are naturally allowed to opt-out for any reason.
@@ -188,20 +188,14 @@ His work involves user command interfaces, adaptable setup systems, and ergonomi
 He also has significant experience in embedded system design and CubeSat mission development.
 He has worked with systems such as the Shoulder-SideWINDER, XoTrunk, and Omega 6 haptic device.
 
-**Prof. Elahe Abdi.**
-
-**Prof. Hiroaki Kawamoto.**
-
-<!--
 ![profile-elahe]
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/elaheabdi/)
 
-**Prof. Elahe Abdi** received her PhD in Mechanical Engineering Robotics from the Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland.
+**Dr. Elahe Abdi** received her PhD in Mechanical Engineering Robotics from the Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland.
 Dr. Abdi is currently a Senior Lecturer in the Department of Mechanical and Aerospace Engineering at Monash University, Australia, a position she has held since 2023.
 Abdi's main expertise lies in human-robot interaction, medical robotics, automation in construction, and service robotics.
-Her work has a significant impact, as demonstrated by her role as a Chief Investigator on external research grants, including a \$4.5 million grant for Optimal Ageing, and her recognition as a Superstar of STEM 2023-2024.
--->
+Her work has a significant impact, as demonstrated by her role as a Chief Investigator on multiple government and industry funded research grants. She was named as one of Science and Technology Australia’s Superstars of STEM 2023-2024. Most recently, she was selected as a 2025-2026 Emerging Leader, Australian Academy of Technological Sciences & Engineering.
 
 ![profile-hiroaki]
 

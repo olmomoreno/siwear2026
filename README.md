@@ -45,7 +45,9 @@ This workshop aims to gather researchers, developers, designers, and practitione
 
 **Submission Format:** Extended Abstract Papers must be up to 2-4 pages (references do not count toward the page length) in IEEE Conf format with 2 columns (templates are available [here](https://ras.papercept.net/conferences/support/support.php)).
 ## Important dates
-**Submission deadline:** ​10th of March, 2026 
+~~**Submission deadline:** 10th of March, 2026~~
+
+**Extended deadline:** 24th of March, 2026
 
 **Notification of acceptance:** 10th of April, 2026 
 

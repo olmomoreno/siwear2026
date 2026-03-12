@@ -156,7 +156,9 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/maria-p-2a2044187/)
 
-**Dr. Maria Pozzi,** "Beyond Teleoperation: Wearable Haptics in Human-robot Augmentation", Department of Information Engineering and Mathematics, University of Siena.
+**Dr. Maria Pozzi**  is a fixed term Assistant Professor (RTD-A) at the University of Siena and holds a Bachelor's Degree (Computer and Information Engineering, 2013), a Master's Degree (Computer and automation Engineering, 2015) and a PhD (Information Engineering and Science, 2019), all with honors from the University of Siena. In 2018, she won the RAS Haptics Grant promoted by the IEEE RAS Technical Committee on Haptics. In 2021, she was selected as an "RSS Pioneer" and was invited as a speaker for the "IFRR Global Robotics Colloquium on The Future of Robotic Manipulation". Since 2021, she is Associate Editor for the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) and since 2023 she is Associate Editor for the IEEE Robotics and Automation Letters. From 2023 to 2025 she was Associate Editor for the IEEE Robotics and Automation Magazine for which she was selected as Outstanding AE in 2025. Her main research interests include: robotic grasping and manipulation, simulation and modeling of soft robots, and haptic interfaces for human-robot augmentation. 
+
+*Talk:* "Beyond Teleoperation: Wearable Haptics in Human-robot Augmentation", Department of Information Engineering and Mathematics, University of Siena.
 
 ![profile-guillermo]
 

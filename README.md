@@ -164,7 +164,9 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillermopérezgarcía/)
 
-**Dr. Guillermo Pérez García,** "AI Interfaces and Social Robotics", 4i Intelligent Insights S.L., Spain.
+**Dr. Guillermo Pérez García,** is CEO of 4i Intelligent Insights and a PhD in Artificial Intelligence from the Universidad Politécnica de Madrid. He has over 30 publications, 1 book, and 12 patents in AI and dialogue systems. He previously served as CTO of Indisys, leading its technology and the process that resulted in its acquisition by Intel. At Intel, he was Principal Engineer and managed international AI teams, contributing to award-winning products such as “Radar Pace” (CES 2017). Since 2018, he has led  4i Intelligent Insights international expansion, delivering AI solutions for major clients including Airbus and Honda, and earning multiple innovation and business awards. His expertise focuses on conversational AI, multimodal systems, and applied artificial intelligence.
+
+*Talk:* "Merging conversational AI and social robotics in real-world applications", 4i Intelligent Insights, Sevilla, Spain.
 
 ![profile-enrique]
 

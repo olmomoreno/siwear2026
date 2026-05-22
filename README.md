@@ -170,11 +170,7 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 
 *Talk:* "Merging conversational AI and social robotics in real-world applications", 4i Intelligent Insights, Sevilla, Spain.
 
-![profile-enrique]
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/enrique-bances/)
-
-**Dr. Enrique Bances,** "Industry 5.0 and Robotics", Fraunhofer IPA, Germany.
 # Workshop Materials
 We encourage participants to use [Nearpod](https://nearpod.com) during the workshop as an interactive tool to actively engage with the presented content and discussions. 
 This tool allows the integration of slide based material with real time interactive elements such as quizzes polls and open questions which can support reflection on key topics related to wearable robotics including setup procedures interaction design and user experience challenges. 

@@ -89,7 +89,7 @@ Papers with an accompanying video will automatically enter the Best Video Award 
 | Time              | Talk |
 |-------------------|------|
 | 09:15 - 09:25    | Opening remarks |
-| 09:25 - 10:00    | Invited speaker |
+| 09:25 - 10:00    | Dr. Maria Pozzi |
 | 10:00 - 10:20    | Lightning talks (4 talks, 5 minutes each) |
 | 10:20 - 10:45    | Coffee break |
 | 10:45 - 11:20    | Invited speaker |

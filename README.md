@@ -251,4 +251,4 @@ This work was supported by the Italian Workers’ Compensation Authority (INAIL)
 [profile-hiroaki]: image/prof_hiroaki.jpg
 [profile-maria]: image/prof_maria.jpg
 [profile-guillermo]: image/prof_guillermo.jpg
-[profile-enrique]: image/prof_enrique.jpg
+[profile-wansoo]: image/prof_wansoo.jpg

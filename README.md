@@ -139,13 +139,13 @@ Papers with an accompanying video will automatically enter the Best Video Award 
   </thead>
   <tbody>
     <tr><td>09:15 - 09:25</td><td>Opening remarks</td></tr>
-    <tr><td>09:25 - 10:00</td><td>Invited speaker</td></tr>
+    <tr><td>09:25 - 10:00</td><td>Invited speaker: Dr. Maria Pozzi</td></tr>
     <tr><td>10:00 - 10:20</td><td>Lightning talks (3 talks, 6 minutes each)</td></tr>
     <tr><td>10:20 - 10:45</td><td>Coffee break</td></tr>
-    <tr><td>10:45 - 11:20</td><td>Invited speaker</td></tr>
+    <tr><td>10:45 - 11:20</td><td>Invited speaker: Dr. Guillermo Pérez García</td></tr>
     <tr><td>11:20 - 11:40</td><td>Lightning talks (3 talks, 6 minutes each)</td></tr>
     <tr><td>11:40 - 12:00</td><td>Poster + Q&amp;A session</td></tr>
-    <tr><td>12:00 - 12:35</td><td>Invited speaker</td></tr>
+    <tr><td>12:00 - 12:35</td><td>Invited speaker: Dr. Wnasoo Kim</td></tr>
     <tr><td>12:35 - 12:50</td><td>Roundtable discussion</td></tr>
     <tr><td>12:50 - 13:00</td><td>Closing remarks</td></tr>
     <tr><td>13:00 - 13:30</td><td>Wearable robotics Demo</td></tr>

@@ -64,9 +64,7 @@ We are pleased to share that our workshop has received three contributions. We a
 ~~**Final version due:**  20th of April, 2026~~ 
 
 ## **VERY IMPORTANT**
-After submitting your workshop contribution, you must email workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.
-
-**Email the Paper ID to:** olmo.moreno@iit.it
+~~After submitting your workshop contribution, you must email workshop organizers your paper ID. This step is mandatory to ensure that your submission is properly tracked and processed within the review system.~~
 
 We invite early-career researchers, roboticists, and members from different scientific communities to submit contributions. We will especially encourage women and young researchers' participation in order to support gender balance in robotics and the promotion of early-career researchers to present themselves to the community. 
 

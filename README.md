@@ -49,9 +49,9 @@ In this workshop, we will discuss the new trends and tendencies of human-interac
 The topics of interest in this workshop are wearable robotics, assistive robotic devices, feedback interfaces, human-powered augmentation, and assessment method strategies.
 This workshop aims to gather researchers, developers, designers, and practitioners from various disciplines that cover the cutting edge of the HRI wearable approach community.
 # Call for contributions
-**Submission Platform:** [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) system
+~~**Submission Platform:** [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) system~~
 
-**Submission Format:** Extended Abstract Papers must be up to 2-4 pages (references do not count toward the page length) in IEEE Conf format with 2 columns (templates are available [here](https://ras.papercept.net/conferences/support/support.php)).
+~~**Submission Format:** Extended Abstract Papers must be up to 2-4 pages (references do not count toward the page length) in IEEE Conf format with 2 columns (templates are available [here](https://ras.papercept.net/conferences/support/support.php)).~~
 ## Important dates
 We are pleased to share that our workshop has received three contributions. We are excited to present these works and look forward to the discussions they will inspire.
 

@@ -8,6 +8,14 @@ Emergent technologies are transforming wearable robotics, enhancing performance,
 
 ## IEEE/ASME International Conference on Advanced Intelligent Mechatronics, July 7th - 10th 2026, Porto Antico, Magazzini del cotone Genova (Italy)
 
+Dear SiWear participants,
+We sincerely apologize for the inconvenience caused by the management of the workshop paper contributions. We understand how frustrating this situation has been and would like you to know that, as SiWear organizers, we did our very best to communicate with the conference organizers and resolve the issue throughout the process.
+Unfortunately, the outcome was beyond our control. We truly appreciate your understanding and thank you for your interest and support of the SiWear workshop.
+
+Kind regards,
+The SiWear Organizers
+
+
 
 <!-- PROJECT LOGO -->
 <br />

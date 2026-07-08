@@ -21,7 +21,7 @@ The SiWear Organizers
 <br />
 <div align="center">
   <a href="https://github.com/olmomoreno/SIWeaR_workshop">
-    <img src="image/siwear.jpg" alt="Logo" width="802" height="500">
+    <img src="image/siwear.png" alt="Logo" width="802" height="500">
   </a>
   <h3 align="center">SIWeaR 2026 </h3>
 </div>
